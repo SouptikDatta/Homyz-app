@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Suchi Queen Palace ",
+    "price": "47 lakhs",
+    "detail": "Street 11, Park Street, Kolkata, India",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Soup Luxurious Home",
+    "price": "66 lakhs",
+    "detail": "Dharsa Brahmin Para, Howrah-711112, India",
+    "image": "./r2.png"
+  },
+  {
+    "name": "CityLife Dev Apartment",
+    "price": "35 Lakhs",
+    "detail": "Block 7 nearby Quest Mall, ParkCircus Area, Kolkata, India",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Alisa Priya Jardin",
+    "price": "44 lakhs",
+    "detail": "Sector-5 street, Saltlake city plot, Kolkata, India",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asatti Garden City",
+    "price": "66,353",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Citralan Puri Serang",
+    "price": "35,853",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "./r3.png"
+  }
+]
